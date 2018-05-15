@@ -4,10 +4,10 @@ about: Click Here to make an issue report
 
 ---
 
-**Client Name: **  
+**Client Name:**  
 
-**Client ID: **  
+**Client ID:**  
 
-**Description: **  
+**Description:**  
 
-**Reproduce: **
+**Reproduce:**
